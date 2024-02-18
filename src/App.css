@@ -1,0 +1,68 @@
+*{
+  color: #0A070D;
+  background-color: #F5F3F7;
+}
+
+
+.container{
+  width: 100%;
+}
+
+
+
+#tomheaderRow{
+  padding-top: 10vh;
+  font-family: 'courier';
+}
+
+#topRow{
+  padding-top: 15vh;
+}
+
+.tomName{
+  font-size: 20px;
+  font-family: "century";
+  color: #641414  ;
+}
+
+.links{
+  font-size: 15px;
+  color: #6d4534;
+}
+
+h6{
+  color: #6d4534;
+}
+
+
+#groupLinks{
+  color: #641414  ;
+}
+
+.courier{
+  font-family: 'courier';
+  color: #6d4534;
+}
+
+.century{
+  font-family: 'century';
+  color: #641414;
+}
+
+.videoLinks{
+  font-size: 15px;
+}
+
+#paddingCol{
+  padding-top: 100px;
+}
+
+@font-face {
+  font-family: 'courier'; 
+  src: url('../public/Nimbus.otf'); 
+}
+
+@font-face {
+  font-family: 'century'; 
+  src: url('../public/century.otf'); 
+}

@@ -1,0 +1,7 @@
+.popupImage:hover{
+    transform: scale(1.05);
+}
+
+img {
+    transition: transform 150ms ease-out
+ }
