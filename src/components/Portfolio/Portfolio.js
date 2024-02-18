@@ -12,12 +12,12 @@ function Portfolio() {
             <h6 className="pt-4 pb-3 courier">PORTFOLIO :</h6>
             <Row>
                 <Col xs={12} md={4}>      
-                <a href="https://drive.google.com/file/d/119Iah-I7LEDJb4AA73mKIOcP7j_TAtAQ/view?usp=sharing">
+                <a href="https://drive.google.com/file/d/119Iah-I7LEDJb4AA73mKIOcP7j_TAtAQ/view?usp=sharing" target="_blank" rel="noreferrer">
                    <img alt="Portfolio cover images" className="popupImage" src={Portfolio1} height={400} />
                    </a>
                 </Col>
                 <Col class="d-sm-none .d-md-block" md={6}>        
-                <a href="https://drive.google.com/file/d/119Iah-I7LEDJb4AA73mKIOcP7j_TAtAQ/view?usp=sharing">
+                <a href="https://drive.google.com/file/d/119Iah-I7LEDJb4AA73mKIOcP7j_TAtAQ/view?usp=sharing" target="_blank" rel="noreferrer">
                  <img alt="Portfolio cover images" className="popupImage" src={Portfolio2} height={400} />
                  </a>
                 </Col>
